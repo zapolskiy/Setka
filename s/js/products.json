@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"title": "Сетка сварная",
+		"itemsLength": 25,
+		"weight": 15,
+		"price": 3000,
+		"imgSrc": "svar.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Сетка Рабица",
+		"itemsLength": 10,
+		"weight": 9,
+		"price": 1400,
+		"imgSrc": "rab.jfif"
+	},
+	{
+		"id": 3,
+		"title": "Сетка ЦПВС",
+		"itemsLength": 10,
+		"weight": 4,
+		"price": 1350,
+		"imgSrc": "cpvs.jfif"
+	},
+	{
+		"id": 4,
+		"title": "Сетка Стеклопластиковая",
+		"itemsLength": 12,
+		"weight": 13,
+		"price": 3200,
+		"imgSrc": "ctekl.jpg"
+	}
+]
